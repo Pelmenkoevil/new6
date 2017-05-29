@@ -1,0 +1,7 @@
+.swiper-wrapper {
+  height: 750px; }
+
+.swiper-slide {
+  background-image: url(../img/beard2.png);
+  background-repeat: no-repeat;
+  background-size: cover; }
